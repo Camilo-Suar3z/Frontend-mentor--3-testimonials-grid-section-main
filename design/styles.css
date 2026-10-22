@@ -97,6 +97,7 @@ main {
 }
 .card {
   border-radius: 0.6rem;
+  box-shadow: 7rem 4rem 7rem var(--Grey-200);
 }
 .header {
   display: flex;
@@ -213,5 +214,7 @@ main {
   .card__Kira {
     grid-column: 4;
     grid-row: 1/3;
+  }
+  .card {
   }
 }
