@@ -177,7 +177,7 @@ main {
 .card__Kira {
   background-color: var(--White);
 }
-@media (min-width: 600px) {
+@media (min-width: 37.5em) {
   html {
     min-height: 100%;
   }
@@ -193,7 +193,7 @@ main {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 2.6rem;
-    grid-template-rows: 1rem, 1rem;
+    grid-template-rows: 1fr 1fr;
   }
   .card__daniel {
     grid-column: 1 /3;
