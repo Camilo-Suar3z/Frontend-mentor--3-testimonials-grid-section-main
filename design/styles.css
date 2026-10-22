@@ -198,6 +198,10 @@ main {
   .card__daniel {
     grid-column: 1 /3;
     grid-row: 1;
+    background-image: url(../images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top 0 right 15%;
+    background-size: 9.4rem;
   }
   .card__Jhonathan {
     grid-column: 3;
