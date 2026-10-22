@@ -156,8 +156,8 @@ main {
   font-size: 1.4rem;
 }
 .card__quote--grey--400 {
-  color: var(--Grey-400);
-  font-size: 1.9rem;
+  color: var(--Grey-500);
+  font-size: 1.4rem;
 }
 
 .card__daniel {
